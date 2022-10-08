@@ -2,6 +2,7 @@
 Meh 
 
 download termux lalu salin dan paste
+
 https://f-droid.org/repo/com.termux_118.apk
 
 - pkg update
