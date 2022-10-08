@@ -1,8 +1,9 @@
 #! / bin / bash
 
 echo "sakiri"
+echo "Zoom out tampilan teks termuxnya! Sampai max"
 
-sleep 1
+sleep 5
 
 echo "l            .. ..':;';:l::d0k0ccXMMMMMMMMMMMMMMMMMMMMk.NMXNMMMNXXXXXXXXXX0XXXXXXXXXXXXXXXNWMMMX0WMMMMMMMMNXMMMMMMMMMMMMMMMMM
 N.            .  ...'';:;;;dxdkxxloxXMMMMMMMMMMMMMMMMN'kMNXMWWNXXXXXXXXXXXOXXXXXXXXXXXXXXXXXNWMWKXMMMMMMMMMXMMMMMMMMMMMMMMMMM
@@ -76,4 +77,4 @@ echo "SELAMAT ULANG TAHUN BEGO"
 
 echo "yah selamat ulang tahun adek di umur yang 19? kan? semoga sehat selalu kedepannya biar ndak sakit terus "
 
-echo "$date"
+Date
