@@ -77,4 +77,4 @@ echo "SELAMAT ULANG TAHUN BEGO"
 
 echo "yah selamat ulang tahun adek di umur yang 19? kan? semoga sehat selalu kedepannya biar ndak sakit terus "
 
-Date
+
