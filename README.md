@@ -3,18 +3,18 @@ Meh
 
 download termux lalu salin dan paste
 
--pkg update
+- pkg update
 
--pkg upgrade
+- pkg upgrade
 
--pkg install bash
+- pkg install bash
 
--pkg install git
+- pkg install git
 
--git clone https://github.com/NeedMeh/hbd
+- git clone https://github.com/NeedMeh/hbd
 
--cd \hbd
+- cd \hbd
 
--bash hbd.sh
+- bash hbd.sh
 
 Selesai, tinggal copy paste aja
