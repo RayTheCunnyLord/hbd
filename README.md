@@ -11,6 +11,8 @@ download termux lalu salin dan paste
 
 -git clone https://github.com/NeedMeh/hbd
 
+-cd \hbd
+
 -bash req.sh
 
 -bash hbd.sh
