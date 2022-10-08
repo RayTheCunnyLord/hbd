@@ -3,7 +3,8 @@ Meh
 
 download termux lalu salin dan paste
 
-https://f-droid.org/repo/com.termux_118.apk
+Link download termux: https://f-droid.org/repo/com.termux_118.apk
+
 
 - pkg update
 
@@ -18,5 +19,6 @@ https://f-droid.org/repo/com.termux_118.apk
 - cd \hbd
 
 - bash hbd.sh
+
 
 Selesai, tinggal copy paste aja
